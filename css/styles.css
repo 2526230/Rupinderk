@@ -1,0 +1,20 @@
+/* Style the user interface */
+.body {
+    font-family: Arial, sans-serif;
+  }
+  .form {
+    margin: 10px;
+  }
+  input[type="text"] {
+    padding: 5px;
+  }
+  input[type="submit"] {
+    padding: 5px 10px;
+    background-color: #0097e6;
+    color: white;
+    border: none;
+  }
+  #map {
+    width: 100%;
+    height: 400px;
+  }
